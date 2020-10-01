@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Wex Brasil
+- 🔭 I’m currently working on with: AWS, Terraform, Linux, Jenkins.
 - 🌱 I’m currently learning Kubernetes, Cloud Architecture, Terraform, Packer, Docker, Ansible...
 - 👯 I’m looking to collaborate on DevOps culture.
 - 💬 Ask me about anything... and I like bike, games, beach...
